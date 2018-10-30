@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "882431676266",
+    "firebase_url": "https://cs175parkingapp.firebaseio.com",
+    "project_id": "cs175parkingapp",
+    "storage_bucket": "cs175parkingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882431676266:android:53cb6bd370d6c661",
+        "android_client_info": {
+          "package_name": "com.example.christinacwong.cs175parkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882431676266-7mm1h84a20b3d1vhpkmuf0dibc7dvkt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.christinacwong.cs175parkingapp",
+            "certificate_hash": "8bf70d6132539ca28b20622e3888bd8ad60f3447"
+          }
+        },
+        {
+          "client_id": "882431676266-53lu00quk9vkm5rorafnkdvj8rekmq54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX-u1PmLs6RKDVb6FDN-b4H8R_YaSF4YU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882431676266-53lu00quk9vkm5rorafnkdvj8rekmq54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
