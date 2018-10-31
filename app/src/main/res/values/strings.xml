@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">CS175ParkingApp</string>
+    <string name="signup_button">Button</string>
+    <string name="signup">SIGNUP</string>
+    <string name="log_out">Log Out</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup_button_2">SIGNUP</string>
+    <string name="login_button">Login</string>
+    <string name="login_text">LOGIN</string>
 </resources>
